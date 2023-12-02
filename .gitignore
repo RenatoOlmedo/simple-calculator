@@ -1,0 +1,42 @@
+# Arquivos temporários
+obj/
+bin/
+
+# Arquivos compilados
+*.exe
+*.pdb
+*.dll
+
+# Arquivos de configuração do Visual Studio
+.vscode/
+*.user
+*.suo
+*.sln.docstates
+
+# Cache de dependências
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Pasta de configuração do Rider
+.idea/
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+
+# Arquivos de usuário
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Cache e arquivos temporários do NuGet
+*.local
+*.bak
+*.tmp
+*.json
+*.log
+*.dat
