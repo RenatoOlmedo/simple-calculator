@@ -1,17 +1,18 @@
 # simple-calculator C#
 Este é um projeto de calculadora simples em C# que segue o princípio da responsabilidade única (SRP).
 
+## Descrição
 O Princípio da Responsabilidade Única (SRP) do SOLID afirma que uma classe deve ter apenas uma razão para mudar, ou seja, deve ter apenas uma responsabilidade. 
 Isso facilita a manutenção, a compreensão e a modificação do código. 
 Classes com responsabilidades bem definidas são mais reutilizáveis e testáveis.
 
-Funcionalidades
+## Funcionalidades
 - Adição
 - Subtração
 - Multiplicação
 - Divisão
 
-##Como usar##
+## Como usar
 Clone o repositório:
 
 ```bash
