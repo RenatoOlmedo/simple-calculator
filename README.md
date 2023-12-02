@@ -11,7 +11,7 @@ Funcionalidades
 - Multiplicação
 - Divisão
 
-##Como usar
+##Como usar##
 Clone o repositório:
 
 ```bash
